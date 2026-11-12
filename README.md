@@ -76,6 +76,6 @@ node --test core.test.cjs
 
 ## Provenance
 
-An independent learning project created for the **trustNOpeps** portfolio with AI-assisted implementation and documentation. This is not a commissioned client system, proof of professional engineering credentials, or evidence of commercial use.
+An independent learning project created for the **haammkaki** portfolio with AI-assisted implementation and documentation. This is not a commissioned client system, proof of professional engineering credentials, or evidence of commercial use.
 
 [Back to portfolio](https://trustnopeps.github.io/trustNOpeps/)
